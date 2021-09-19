@@ -1,0 +1,4 @@
+Frutas;cantidad
+Manzana;21
+Pera;2
+MAndarina;3
