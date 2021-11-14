@@ -1,0 +1,3 @@
+madera 100
+piedra 100
+metal 80
